@@ -1,5 +1,5 @@
 - 💞️ Hi, I’m @ViktorijaSiktorija
-- 🌱 I’m currently learning JavaScript, Python, Machine Learning, SQL
+- 🌱 I’m currently learning JavaScript, NodeJS, SQL/NOSQL (Mongo), Python, Machine Learning
 - 📫 Reach me at lukic.vika@gmail.com
 
 <!---
