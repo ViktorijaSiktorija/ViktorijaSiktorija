@@ -1,5 +1,5 @@
 - 💞️ Hi, I’m Viktorija
-- 🌱 Currently learning JavaScript, React, NodeJS, SQL/NOSQL (MongoDB), Python
+- 🌱 Currently learning JavaScript, React, SQL and NOSQL (MongoDB), Python, NodeJS
 - 📫 Reach me at lukic.vika@gmail.com
 
 <!---
